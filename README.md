@@ -9,17 +9,17 @@ The ready-to-run Windows desktop version will be available soon on [Gumroad](htt
 
 ---
 
-Features
+## ✨ Features
 
--Multiple PDFs indexed at once** — Upload any number of PDFs, on any topic, and ask across all of them.
--Answers that cite the exact source file** — Every response shows the file it came from, e.g. `(source: qubit_guide.pdf)`. No guessing, no hallucinations.
--Honest fallbacks** — If the PDFs don't cover something, the chatbot says so and clearly labels any answer drawn from general knowledge.
--Live stock prices** — Asks Alpha Vantage for real-time stock data, with retry and timeout handling.
--Web search** — Uses DuckDuckGo for current events and anything not in the PDFs.
--Threaded conversations** — Every chat is saved and persistent across restarts. Click any past topic to reload it.
--Bring your own LLM** — Groq, OpenAI, Anthropic, or a local model. Your API key, your choice.
--Simple GUI** — Clean Streamlit-based interface any beginner can operate.
--Runs locally** — Your documents and keys never leave your machine.
+- **Multiple PDFs indexed at once** — Upload any number of PDFs, on any topic, and ask across all of them.
+- **Answers that cite the exact source file** — Every response shows the file it came from, e.g. `(source: qubit_guide.pdf)`. No guessing, no hallucinations.
+- **Honest fallbacks** — If the PDFs don't cover something, the chatbot says so and clearly labels any answer drawn from general knowledge.
+- **Live stock prices** — Asks Alpha Vantage for real-time stock data, with retry and timeout handling.
+- **Web search** — Uses DuckDuckGo for current events and anything not in the PDFs.
+- **Threaded conversations** — Every chat is saved and persistent across restarts. Click any past topic to reload it.
+- **Bring your own LLM** — Groq, OpenAI, Anthropic, or a local model. Your API key, your choice.
+- **Simple GUI** — Clean Streamlit-based interface any beginner can operate.
+- **Runs locally** — Your documents and keys never leave your machine.
 
 ---
 
