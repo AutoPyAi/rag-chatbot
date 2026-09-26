@@ -121,6 +121,6 @@ Developed by Suhail Asghar
 Python · LangChain · LangGraph · RAG systems · AI automation
 
 - Email: autopyai@gmail.com
-- LinkedIn: [linkedin.com/in/suhail-asghar](https://www.linkedin.com/in/your-handle)
+- LinkedIn: [linkedin.com/in/suhail-asghar](https://www.linkedin.com/in/suhailasghar)
 - Portfolio: [autopyai.github.io](https://autopyai.github.io)
 - Gumroad: [autopy.gumroad.com](https://autopy.gumroad.com)
