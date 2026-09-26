@@ -53,8 +53,11 @@ The sidebar shows every indexed PDF and all saved conversations.
 
 5. Answer with citations in the main chat area
 
-[Answer with citation](docs/answer.png)
-Every answer carries a source tag so the user can verify.
+### 5. Answer with citations in the main chat area
+
+![Answer with citation](docs/answer.png)
+
+*Every answer carries a source tag so the user can verify.*
 
 6. Settings — bring your own LLM
 
