@@ -9,6 +9,17 @@ The ready-to-run Windows desktop version will be available soon on [Gumroad](htt
 
 ---
 
+## ▶️ Watch the Demo
+
+[![Watch the full walkthrough](https://img.youtube.com/vi/7Tg3wUYisHE/maxresdefault.jpg)](https://youtu.be/7Tg3wUYisHE)
+
+*Click the thumbnail to watch the full 9-minute walkthrough on YouTube — upload, ask, cite, verify.*
+
+- **Full walkthrough (9 min):** [youtu.be/7Tg3wUYisHE](https://youtu.be/7Tg3wUYisHE)
+- **Short clip (90 s):** [Watch on Facebook](https://www.facebook.com/autopyai)
+
+---
+
 ## ✨ Features
 
 - **Multiple PDFs indexed at once** — Upload any number of PDFs, on any topic, and ask across all of them.
@@ -24,6 +35,10 @@ The ready-to-run Windows desktop version will be available soon on [Gumroad](htt
 ---
 
 Real Output Examples
+
+▶️ **[Watch the full walkthrough on YouTube →](https://youtu.be/7Tg3wUYisHE)**
+
+Then scroll down for screenshots.
 
 1. Ask a question — get a cited answer
 
@@ -125,5 +140,7 @@ Python · LangChain · LangGraph · RAG systems · AI automation
 
 - Email: autopyai@gmail.com
 - LinkedIn: [linkedin.com/in/suhail-asghar](https://www.linkedin.com/in/suhailasghar)
+- YouTube: [RAG Chatbot Demo](https://youtu.be/7Tg3wUYisHE)
+- Facebook: [facebook.com/autopyai](https://www.facebook.com/autopyai)
 - Portfolio: [autopyai.github.io](https://autopyai.github.io)
 - Gumroad: [autopy.gumroad.com](https://autopy.gumroad.com)
