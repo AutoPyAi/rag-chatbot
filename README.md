@@ -33,20 +33,25 @@ The ready-to-run Windows desktop version will be available soon on [Gumroad](htt
 - **Runs locally** — Your documents and keys never leave your machine.
 
 
-## Two Modes
+## 🎛️ Two Modes
 
-Switch between modes in **Settings**.
+Switch between modes in **⚙️ Settings**.
 
-**🌐 General mode (default)** — Answers from your PDFs when possible, and
-falls back to general knowledge when the documents don't cover a topic.
-Falls back are clearly labeled: *"(general knowledge, not from the documents)"*.
+### 🌐 General mode (default)
 
-**📄 Strict document-only mode** — For legal, medical, and financial use cases.
-Answers *only* from your uploaded PDFs. If the documents don't cover a topic,
-the assistant refuses: *"The uploaded PDFs do not contain information about
-this topic."*
+Answers from your PDFs when possible, and falls back to general knowledge when the documents don't cover a topic. Fallbacks are clearly labeled.
 
----
+![General mode settings](docs/general_mode.png)
+
+*The default mode — helpful, with clear source labels.*
+
+### 📄 Strict document-only mode
+
+For legal, medical, and financial use cases. Answers *only* from your uploaded PDFs. If the documents don't cover a topic, the assistant refuses instead of guessing.
+
+![Strict mode settings](docs/strict_mode.png)
+
+*Strict mode — answers come only from your documents.*---
 
 
 Real Output Examples
