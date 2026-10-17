@@ -1,8 +1,20 @@
 RAG Chatbot (2026) — Chat with Your PDFs
 
-A desktop RAG (Retrieval-Augmented Generation) chatbot that lets you ask questions across multiple PDFs and get answers with the exact source file cited.
+A desktop RAG (Retrieval-Augmented Generation) chatbot that lets you ask questions across multiple documents — PDFs, Word files, Excel spreadsheets, text files, and CSVs. Every answer cites the exact source.
 
 Supports live stock prices, web search, and any LLM provider you choose — Groq, OpenAI, or a local model.
+
+## 📁 Supported Formats
+
+| Format | Citation |
+|---|---|
+| **PDF** | `(source: file.pdf, PDF page N)` |
+| **Word** | `(source: file.docx)` |
+| **Excel** | `(source: file.xlsx, sheet: SheetName)` |
+| **Text** | `(source: file.txt)` |
+| **CSV** | `(source: file.csv)` |
+
+Every answer points back to the exact file, page, or sheet it came from.
 
 Note: This is a closed-source tool. The source code is not publicly available.
 The ready-to-run Windows desktop version will be available soon on [Gumroad](https://autopy.gumroad.com/l/fpfcp).
@@ -22,7 +34,7 @@ The ready-to-run Windows desktop version will be available soon on [Gumroad](htt
 
 ## ✨ Features
 
-- **Multiple PDFs indexed at once** — Upload any number of PDFs, on any topic, and ask across all of them.
+- **Multiple file formats — PDFs, Word documents (.docx), Excel spreadsheets (.xlsx), text files (.txt), and CSV files (.csv) — all searchable in one conversation.
 - **Answers that cite the exact source file** — Every response shows the file it came from, e.g. `(source: qubit_guide.pdf)`. No guessing, no hallucinations.
 - **Honest fallbacks** — If the PDFs don't cover something, the chatbot says so and clearly labels any answer drawn from general knowledge.
 - **Live stock prices** — Asks Alpha Vantage for real-time stock data, with retry and timeout handling.
@@ -93,6 +105,15 @@ The sidebar shows every indexed PDF and all saved conversations.
 ![Answer with citation](docs/answer.png)
 
 *Every answer carries a source tag so the user can verify.*
+
+### 6. Spreadsheet queries
+
+**User:** "What was the total revenue for Widget B in Asia Pacific?"
+
+**Assistant:** "The total revenue for Widget B in the Asia Pacific region was $96,040."  
+*(source: test_data.csv)*
+
+docx, xlsx, csv, multi-format
 
 6. Settings — bring your own LLM
 
